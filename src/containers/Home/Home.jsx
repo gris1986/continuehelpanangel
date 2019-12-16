@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { HomeStyle } from './Home.module.css';
 
 class Home extends Component {
   state = {
@@ -14,7 +15,7 @@ class Home extends Component {
     const { searchText } = this.state;
     return (
       <>
-        <h1>Home</h1>
+        <h1 className={HomeStyle}>Home</h1>
         Search:
         <input onChange={this.clickListener} type="text" value={searchText} />
         <p>
