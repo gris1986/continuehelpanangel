@@ -4,6 +4,9 @@ import {
   Route,
 } from 'react-router-dom';
 
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'jquery/dist/jquery.min';
+import 'bootstrap/dist/js/bootstrap.bundle.min';
 import Home from './containers/Home/Home';
 import About from './components/About/About';
 
