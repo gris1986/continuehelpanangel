@@ -1,0 +1,46 @@
+.burger_nav {
+    height: 100%;
+    background: white;
+    box-shadow: 1px 0px 7px rgba(0, 0, 0.5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 70%;
+    max-width: 400px;
+    z-index: 200;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease-out;
+}
+
+.burger_nav.open{
+    transform: translatex(0);
+}
+
+.burger_nav ul {
+    height: 100%;
+    list-style:none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.burger_nav li {
+    margin: 0.5rem 0;
+}
+
+.burger_nav a {
+    color: #563f46;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+.burger_nav a:hover,
+.burger_nav a:active {
+    color: #ffef96;
+}
+
+@media (min-width: 769px) {
+    .burger_nav {
+        display: none;
+    }
+}
