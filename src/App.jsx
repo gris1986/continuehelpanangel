@@ -14,6 +14,9 @@ import Toolbar from './components/Toolbar/Toolbar';
 import BurgerNav from './components/BurgerNav/BurgerNav';
 import Backdrop from './components/Backdrop/Backdrop';
 
+import Carousel from './components/CarouselPage/CarouselPage';
+import Search from './components/Search/Search';
+
 class App extends Component {
   state = {
     burgerNavOpen: false,
@@ -26,7 +29,7 @@ class App extends Component {
   };
 
   backdropClickHandler = () => {
-    this.setState({burgerNavOpen: false});
+    this.setState({ burgerNavOpen: false });
   };
 
   render() {
@@ -46,9 +49,12 @@ class App extends Component {
         </Toolbar>
         <BurgerNav show={this.state.burgerNavOpen} />
         {backdrop}
-        <main style={{ marginTop: '64px' }}>
-          <p>This will be a slider</p>
+        <main style={{ marginTop: '55px', background: '#99C1DA' }}>
+          <Carousel> </Carousel>
+          <Search />
+
         </main>
+
       </div>
     );
   }

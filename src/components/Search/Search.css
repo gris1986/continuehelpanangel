@@ -1,0 +1,22 @@
+.search {
+gap: normal;
+line-height: 24px;
+padding: 0px 15px;
+text-align: left;
+z-index:10;
+flex-basis: 20%;
+position: fixed;
+left: 550px;
+top: 460px;
+
+}
+
+@media (max-width: 769px) {
+    .search {
+        position: absolute;
+
+        transform: translate(-110%, -150%)
+
+    }
+}
+
