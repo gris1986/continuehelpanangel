@@ -5,9 +5,9 @@ padding: 0px 15px;
 text-align: left;
 z-index:10;
 flex-basis: 20%;
-position: fixed;
-left: 550px;
-top: 460px;
+position: absolute;
+left: 30%;
+top: 51%;
 
 }
 

@@ -16,6 +16,9 @@ import Backdrop from './components/Backdrop/Backdrop';
 
 import Carousel from './components/CarouselPage/CarouselPage';
 import Search from './components/Search/Search';
+import CardBox from './components/CardBox/CardBox';
+import PostList from './components/PostList/PostList';
+
 
 class App extends Component {
   state = {
@@ -52,8 +55,12 @@ class App extends Component {
         <main style={{ marginTop: '55px', background: '#99C1DA' }}>
           <Carousel> </Carousel>
           <Search />
+         
+
 
         </main>
+        <CardBox />
+
 
       </div>
     );
