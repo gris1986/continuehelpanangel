@@ -14,16 +14,24 @@ import Toolbar from './components/Toolbar/Toolbar';
 import BurgerNav from './components/BurgerNav/BurgerNav';
 import Backdrop from './components/Backdrop/Backdrop';
 
+import petsData from './api/data.json';
 import Carousel from './components/CarouselPage/CarouselPage';
 import Search from './components/Search/Search';
 import CardBox from './components/CardBox/CardBox';
-import PostList from './components/PostList/PostList';
 
 
 class App extends Component {
   state = {
     burgerNavOpen: false,
+    pets: [...petsData],
+    type: '',
+    city: '',
+    size: '',
   };
+
+  searchClickHandler = () => {
+
+  }
 
   burgerClickHandler = () => {
     this.setState((prevState) => {
@@ -37,9 +45,10 @@ class App extends Component {
 
   render() {
     let backdrop;
+    const { pets, burgerNavOpen } = this.state;
 
 
-    if (this.state.burgerNavOpen) {
+    if (burgerNavOpen) {
       backdrop = <Backdrop click={this.backdropClickHandler} />;
     }
     return (
@@ -50,18 +59,13 @@ class App extends Component {
             <Route path="/about" exact component={About} />
           </Router>
         </Toolbar>
-        <BurgerNav show={this.state.burgerNavOpen} />
+        <BurgerNav show={burgerNavOpen} />
         {backdrop}
         <main style={{ marginTop: '55px', background: '#99C1DA' }}>
           <Carousel> </Carousel>
-          <Search />
-         
-
-
+          <Search click={this.searchClickHandler} />
         </main>
-        <CardBox />
-
-
+        <CardBox pets={pets} />
       </div>
     );
   }

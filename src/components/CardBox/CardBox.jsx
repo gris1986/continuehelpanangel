@@ -1,12 +1,12 @@
 import React from 'react';
 import { MDBContainer, MDBRow, MDBBtn, MDBCard, MDBCardBody, MDBCardImage, MDBCardTitle, MDBCardText, MDBCol } from 'mdbreact';
-import PostData from '../PostList/data.json';
 
-const CardExample = () => {
+const CardExample = (props) => {
+    const { pets } = props;
   return (
     <MDBContainer>
     <MDBRow>
-    {PostData.map((postDetail, index) =>{
+    {pets.map((postDetail, index) =>{
           return (
             <MDBCol md="4">
             <MDBCard style={{ padding: '1%', width: "22rem" }}>
