@@ -7,7 +7,7 @@ z-index:10;
 flex-basis: 20%;
 position: absolute;
 left: 30%;
-top: 51%;
+top: 45%;
 
 }
 
@@ -26,7 +26,7 @@ top: 51%;
 
 @media (max-width: 769px) {
     .search {
-        position: absolute;
+
 
         transform: translate(-110%, -150%)
 

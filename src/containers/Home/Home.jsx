@@ -13,9 +13,7 @@ export default class Home extends Component {
   };
 
     searchClickHandler = () => {
-      const { pets } = this.state;
-
-      const filteredPets = pets.filter((pet, index) => {
+      const filteredPets = petsData.filter((pet) => {
         const { type, city, size } = pet;
         const { type: stateType, city: stateCity, size: stateSize } = this.state;
 
