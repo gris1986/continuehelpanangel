@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Max",
-        "content": "Try Reactjs is awesome. Can't wait to learn more",
+        "content": "I like to play with everyone!",
         "pic": "https://iwqxfq.ch.files.1drv.com/y4mmFwGvMAOcjo2A_96O10XOk2W9ugdO4Lea6EX6uCjqJocIJcOaVSN_8BeLhoZUEKXrUfuonHGtCQ5sF1x_6xO1lYo0as6Bt-pmUIySngD8ksumd0CC5nmDoabC_A8HITnLi2Qldib1yZzY3aldK7ARgMnYHkYRwViDNXX7Uqk3Yry-VQuVqp6y4xyvWwkEVVU?width=750&height=500&cropmode=none",
         "type": "dog",
         "size": "medium",
@@ -11,7 +11,7 @@
     {
         "id": 2,
         "title": "Manchitas",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "Long walks it's my thing!",
         "pic": "https://iwqvfq.ch.files.1drv.com/y4mzkzIzEPfvm6J-trPjhX_uJgLI2a6i9OpQaNZC_J0mND3XliZBW4Uhx3w9J2BMXA9xUS-hFjFZ4FXi70Z1i5lEgNiaTDGPIN50DlFijkcV7C_gTBOZc6sJY29VD5NJH3XIbWsvpVci45uZf-pkKL37ngIY0eg5wQLiyZKlxdpbdCK7Y1py52kZYA6-6qQD6t4?width=750&height=500&cropmode=none",
         "type": "dog",
         "size": "big",
@@ -20,7 +20,7 @@
     {
         "id": 3,
         "title": "Hoshi",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "I'm the sweetest girl and I can learn easily",
         "pic": "https://iwqyfq.ch.files.1drv.com/y4mORdZTyGYDfViTMOD5c_YwzGSm-edREgIPwDgIDAncepU7hZzl5nv4L42MnpA031sESh1fhPtBzQ42Y6Oo07M7m2T2NquzGjno5LhC7f5gvFUvNeTcsDrEklz1hstDgIa-uUxe2qfsy9J_xZ1NR6nGpaWwL1AxltEEMKVV7bhcIbNkT8_jYnl_WzGk_R86sYR?width=750&height=500&cropmode=none",
         "type": "dog",
         "size": "medium",
@@ -29,7 +29,7 @@
     {
         "id": 4,
         "title": "Bigotes",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "I'm a baby boy and I can play all night long!",
         "pic": "https://iwqjfq.ch.files.1drv.com/y4mEjO8cKWTqkNu8HxWM48xwRdqFZLRfeZ_b46iDdJv2aSBTiPcwyu311RLW7-AD32IyovAFLUXnLL5SI26h-NRb_1FChiNRVE5TaEquH8aKeid8PH1KzQL0U3cOnQw7Axg32R1d5ZUnOCzc96EwowcxhPapyCOIrvs_EXUZ2xGaA_YyQlAjOj8mpVr7B4rpLIs?width=750&height=500&cropmode=none",
         "type": "cat",
         "size": "small",
@@ -38,7 +38,7 @@
     {
         "id": 5,
         "title": "Ojitos",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "Half Husky and half of others mixes, but my heart will be all yours!",
         "pic": "https://iwqufq.ch.files.1drv.com/y4mn30ETpTOT0l4QnkSKEtEsXfOshZ1igyhsFwLPzocJ04VX6Hqg9-4tz1xFUCiriCiHjeK1_E5ei30-bRFmbDr0X5zGdYQHgzBOQLCGXpxmisAdLgenSVQgYFH_TKamvPUwh9AZTrLaKPgNIh_sN7-tqcjLON2LNBy5dMFHDyHO9wE3mCRugLMyIOC9Z7V9D2Y?width=750&height=500&cropmode=none",
         "type": "dog",
         "size": "medium",
@@ -56,7 +56,7 @@
     {
         "id": 7,
         "title": "Mushi",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "I'm the smallest dog here, but the bravest!",
         "pic": "https://iwqzfq.ch.files.1drv.com/y4mxegFcD2gqYSOM6b3yK6eUdb_mAZ7pPYkHdOyx6VRZacy7jo2F85iEYhUYMqTmHLadTyXWF45sxnI_3DTsJe0SMKq1ERvqdSaZ_OT4nf2JBACGc8__VwMiShJE2DlHmqOAAKNG79nDSsVPTLqB06VCZUA8q29cZ8oMoe3al3OqQ-lJ4eYtH_n-_akOPNPNOob?width=750&height=500&cropmode=none",
         "type": "dog",
         "size": "small",
@@ -65,7 +65,7 @@
     {
         "id": 8,
         "title": "Mr. Jump",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "I like to jump and jump and jump!",
         "pic": "https://iwqwfq.ch.files.1drv.com/y4meHbg4XTFGYTXkP_jga48zadocZFK6co_W3tTgcCwIsBKJV8D6tQch7B47pMtdge3-9uAYN4M1lDANNQLfvcB_zw8Bk_6ZnSQFuG1W-LqHtC2eu1KgXy5SjnjxTrpY3f2XMwJtpdH7QA_xItqs8oFY5tbbSAMYrEZwsV7tybzz4nGm_wo91uTA-LlnWIWaSm3?width=750&height=500&cropmode=none",
         "type": "dog",
         "size": "small",
@@ -74,7 +74,7 @@
     {
         "id": 9,
         "title": "Dalmata",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "Day 234: They still think I'm a Dalmata!",
         "pic": "https://jqqzfq.ch.files.1drv.com/y4mT-Ykelo5nVGWeUe5fRuGNFhVRArkqIPUe6SXu68NCdTMWOOKFd6P0XAk4Zbltd41HfkTnx60ES20AtXVH1xyPPKPTkvXk1Bcc0Xl03u5NqjAlr6mFc908y2rGyWx0bX8zWwEEjviZPjiKGRFWlqzex63FiuV5OE9YZDgpPWeyJEYaSXKH9mgUMERQU-k4tVB?width=750&height=500&cropmode=none",
         "type": "rabbit",
         "size": "small",
@@ -83,7 +83,7 @@
     {
         "id": 10,
         "title": "Mr. Short ears",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "No ears but I can hear you very well",
         "pic": "https://jqqyfq.ch.files.1drv.com/y4mEMyfXJLt7LrrHlKpDnmnYI7aoYdu3D-i5qRTjaT6MhSNtBKWpoj25-2ZeV4WWQ0-jLtCn_B8RWS2dpCQY8fTXVYFIa3svZwLMZzM27mBWzi2DOLc5h-igCWHrH-ae2xkO6_A-z4CQ5iAh1aFypY--qFhbm4BV4CKQwXu21PO1YuojsmE3OYafHw7etu7GMsO?width=750&height=500&cropmode=none",
         "type": "rabbit",
         "size": "small",
@@ -92,7 +92,7 @@
     {
         "id": 11,
         "title": "Fluffy",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "Fluffy but not fatty!",
         "pic": "https://jaqufq.ch.files.1drv.com/y4m-icksl6RErrkpuysCnIn9W261E8hRe6DqH4JBTeGpu5_Rtfm4w5QCTVD5JJdGpsNsDMRcsEy-m4CGkYQPqXM6N9k-9wYsKVPUsl5EW1zVekYMqMwbv9nWFuhfaZztYYlTRbE4THTR5RR1qs2_ZEzaNCfG1Zyvf0UFjZzpgMSt_ZWZNaYoNd86vTLdiU_JlTx?width=750&height=500&cropmode=none",
         "type": "rabbit",
         "size": "small",
@@ -101,7 +101,7 @@
     {
         "id": 12,
         "title": "Pantera",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "Black it's trending!",
         "pic": "https://jqqafq.ch.files.1drv.com/y4mKbSrn22jH7oiHykQRiq_FPvfps0zsfdrmEuWJ679nPgjKPI_GHrqqsYvuLBOOlIffrLpa3GFE1SdR6WqUNT01copXfgn7L9w1pOM8gui8B9noCgcHfLt9jtdmYCWtFAJURE8USDeuMlJkZCcTMU09QxnAl5L_N55Wqy7TZmLmS_0wC_NJqYdJKlCzRovUPbs?width=750&height=500&cropmode=none",
         "type": "cat",
         "size": "small",
@@ -110,7 +110,7 @@
     {
         "id": 13,
         "title": "Mr. Weirdo",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "Oppa gangnam style, Ohh-Ohh!",
         "pic": "https://jaqbfq.ch.files.1drv.com/y4mxWyUR9pqP_XQ41xTOjWd1Md-JTD3OCgypP4uGZv9zADxMHqqwgesMD1MoMXWL-2c7lkSiBAK4W-uxqOCAzkBtmu5WFOu8AhRlc7n18UTi5piSus764XKvW0XFS1VG6WyfmJlc7As6B9gPn_3TBURLp-AdF7xexI5f0crU_XzqEtWIoqJo5fBK04oKifJYkco?width=750&height=500&cropmode=none",
         "type": "cat",
         "size": "small",
@@ -119,7 +119,7 @@
     {
         "id": 14,
         "title": "Bella",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "Miss Catuniverse 2019!",
         "pic": "https://jaqvfq.ch.files.1drv.com/y4m7-vVrmNJigJAle3LPWOXcFYDQOo7UghPxXW0Laka4rITBrbQByPafTRiWhMFBhIDI9PIoLz4f1TLJylok6xMnbxgwUjwaiTxAMT_KSBmt0TOzsmAdEZwGUgGWB8NnPMWhRCXZVGbgsOXtfftpIgXn_joldUVh18p97g7lt7wYZAgOlRrcTbBVhPebmie5Akj?width=750&height=500&cropmode=none",
         "type": "cat",
         "size": "small",
@@ -128,7 +128,7 @@
     {
         "id": 15,
         "title": "Grisi",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "I'm the little one here, take me home please!",
         "pic": "https://jaqzfq.ch.files.1drv.com/y4mEsCZPLwx9ia_O0cyoSVfRZhOx9xRBJXjXngDauSUnFnyx95TDDyv2ocFmxJdHktIlk7H3ZC20eEAgl1mfsPojqG8m-L3mUI15fGWdfuSyII4ohKsyt9cpKD-j7taGMqSbwCYTfVqayzpSFR8OX3a5I5ITnT4icatA3KMoZKHVI94Q9KDRk1O9AuXFKrgHWOU?width=750&height=500&cropmode=none",
         "type": "cat",
         "size": "small",
@@ -137,7 +137,7 @@
     {
         "id": 16,
         "title": "Luna",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "I like to make new friends",
         "pic": "https://jqqxfq.ch.files.1drv.com/y4mXUkw0tVoDjvWw0BiyA64PuJObMVM0RIUggagwjp94ArdIHaNkMCunuBj5FBpHnHYZyBcudZjfUN56sZgdvT3GyyDmRs9EbpDAbNL0p4liN0X_gza__6_LTQAykdkrAeJ2XB4BcrVSP-tQXZIsTo1DvUNY8AwWEjlz0gLMw4SVbjCiPtWR6Cn9v33jiJRMKEJ?width=750&height=500&cropmode=none",
         "type": "cat",
         "size": "small",
@@ -146,7 +146,7 @@
     {
         "id": 17,
         "title": "Harvey Dent",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "I will flip a coin to choose your destiny",
         "pic": "https://jqqwfq.ch.files.1drv.com/y4msvO96KEW94GmtFaOTdngnvvZQ4zFjfZfdLg7PfJBvDY95MrEJ0OIry7-T0mcCf9dqwSepOEzzuXoAZbVw8huwRGT3rF_CTxUF_pSDwNgvdTjornxePFoQVjdDWW-ewX8mtIlBPszddrXnzZVCSXkoAuzNedFxWj3dQWYTPtGV_Zf2CGvbPFBusgqDxSytTj9?width=750&height=500&cropmode=none",
         "type": "cat",
         "size": "small",
@@ -155,7 +155,7 @@
     {
         "id": 18,
         "title": "Mr. Smarty Pants",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "Logic will get you from A to Z; imagination will get you everywhere.",
         "pic": "https://jqqbfq.ch.files.1drv.com/y4m775gAlKHa42nBAnEmN99nky92rh6JX2kgda82rJ0Fbuq6eLWCGP-s7oDrFoE1ZVCSs9r7Vw967X-Hf2wGWI3oYKVSvcuC2BwiuE7JpZHhhdJiugUv227wV5V3ixPd48TmWEaEyu_yjiLfw6Qh4DcUri7t8OI8JptoCXoh8miPbtTX-2MlyxUUBbwXi5xXtCl?width=750&height=500&cropmode=none",
         "type": "cat",
         "size": "small",
@@ -164,7 +164,7 @@
     {
         "id": 19,
         "title": "Lady Sweetness",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "Can I give you my heart?",
         "pic": "https://jaqwfq.ch.files.1drv.com/y4m2TS3pKjzJt0d-UbRxwy5JX4eGdxa-UXW1fjk_H8zEcmDImRXTj6B1ifOVJ5yVeVGNEBTLOcZdWVBJgpwpKhBASVyLzbzeEoJr2vxDOo-6LIjO_r4tFu8oMO3XErOX96N3D-pDoGDRup1NEvdtPVLzyGKxMD_sfI0x74pbo1kbzAJ7cu5xga8IBwJeOkKwRFt?width=750&height=500&cropmode=none",
         "type": "dog",
         "size": "big",
@@ -173,7 +173,7 @@
     {
         "id": 20,
         "title": "Mr. Cuddles",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "I want infinite cuddles!",
         "pic": "https://jaqifq.ch.files.1drv.com/y4mTZ0Gm2hf7bPoSST3FD3xwvR37D3AfpzLofykiOsdK1Ra5QgExhfnllZ-raGiQOGtKXDgEta3BSbgoVgfWh8tG9kb5AQQpbVEQUtprPCOQc8iGMbx28-jxGDX38nWdHh2MhYKpuIy9YjOFV-JyohMpvm7axoqHBg8zkLDDFTiJzJbk0RPKKc2cTyWOl7It5ir?width=750&height=500&cropmode=none",
         "type": "rabbit",
         "size": "small",
@@ -182,7 +182,7 @@
     {
         "id": 21,
         "title": "Flash",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "I'm the fastest boy on earth!",
         "pic": "https://jaqjfq.ch.files.1drv.com/y4moGfA_dukt43nAUn1zUtK7xiuwG4K6HiL_h0JqRw2-xnZuUAn1Bu6J4oYXCwPHVlA1M3ss3s4JT14Bn3KiAwBe5_Ptz83ONEixx_tDhP2DotzewQTJ2ffh0Mza1uO4ek9HvoGW8rPoLmI85PW9JX1T2OR1J44Lv7H5HVaglVl6zN2Q35x0CSiSkW8sY2SlnpB?width=750&height=500&cropmode=none",
         "type": "rabbit",
         "size": "small",
@@ -191,7 +191,7 @@
     {
         "id": 22,
         "title": "Beauty",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "I can kiss you all day",
         "pic": "https://jaqxfq.ch.files.1drv.com/y4m7poWIDIXAh5soRgb3DpEi4F3ifIV-3So1LWpzyqIQUcnl-7YqCzoYN-0mc-2UxC9D0iwM31tmeFRgcJO6u8u3nLsslyIXj5k-NM3xHmOp9ufFksvS4ZLVhq9chxGhJkNej1kHD70c4y0sRgiBrj2kJ7JqFaSpNeVV-vArpf4eag3Q7gEnc939gmZktOUXruz?width=750&height=500&cropmode=none",
         "type": "cat",
         "size": "small",
@@ -200,7 +200,7 @@
     {
         "id": 23,
         "title": "Sleepyhead",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "ZZzz-ZZzz",
         "pic": "https://jaqyfq.ch.files.1drv.com/y4mBKi75LLHH-9XdobK-A0r7ikTN673D9MsEcBWrQOUuoCF_LVOEE9KHq2eQ0k0q-QIUDAtaSl3qCrLGGAAT3YwyjEG-_iYMipJqzgBwCV3o5X2J2s0NS1lvL9BOAX-rrZHbOEijiekUOLqN8bR09oJu-hTOZ8ogVi16QDmn6NVSdrfZZcD4aRz68h7v2lUv7oH?width=750&height=500&cropmode=none",
         "type": "cat",
         "size": "small",
@@ -209,7 +209,7 @@
     {
         "id": 24,
         "title": "Sista",
-        "content": "Setting up react is easy. Learn more about it!",
+        "content": "What's Up?",
         "pic": "https://jaqafq.ch.files.1drv.com/y4mZuJjDtuuj-PgfX1N007Sm0fuucXLAAicJy0dtw4xLApDGpSUda4XkqOSocxiA-59uOOJUE409vH2QB-9E-ZWYhEZ0UNXdXnIz3KrF-oaRB5R8BNUU1TMBtKE7GJJcK8Yw3wfxBJpaGEC8jdFaD4YsanBBeRY5M-orlEM5ZNMckHDmYLyWOL5XAqAkGg8Xhg7?width=750&height=500&cropmode=none",
         "type": "cat",
         "size": "small",

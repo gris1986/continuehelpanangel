@@ -1,30 +1,27 @@
 import React, { Component } from 'react';
-import { HomeStyle } from './Home.module.css';
+import petsData from '../../api/data.json';
+import Carousel from '../../components/CarouselPage/CarouselPage';
+import Search from '../../components/Search/Search';
+import CardBox from '../../components/CardBox/CardBox';
 
-class Home extends Component {
+export default class Home extends Component {
   state = {
-    searchText: '',
+    pets: [...petsData],
+    type: '',
+    city: '',
+    size: '',
   };
 
-  clickListener = (event) => {
-    const searchText = event.target.value;
-    this.setState({ searchText });
-  }
+    searchClickHandler = () => {}
 
-  render() {
-    const { searchText } = this.state;
-    return (
-      <>
-        <h1 className={HomeStyle}>Home</h1>
-        Search:
-        <input onChange={this.clickListener} type="text" value={searchText} />
-        <p>
-          Current search text:
-          {searchText}
-        </p>
-      </>
-    );
-  }
+    render() {
+      const { pets } = this.state;
+      return (
+        <>
+          <Carousel />
+          <Search click={this.searchClickHandler} />
+          <CardBox pets={pets} />
+        </>
+      );
+    }
 }
-
-export default Home;

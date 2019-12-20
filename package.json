@@ -11,12 +11,14 @@
     "jquery": "^3.4.1",
     "mdbreact": "^4.23.1",
     "react": "^16.12.0",
+    "react-awesome-modal": "^2.0.5",
     "react-dom": "^16.12.0",
     "react-filter-search": "^1.0.8",
     "react-instantsearch-dom": "^6.1.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.3.0",
-    "react-search-field": "^1.0.0"
+    "react-search-field": "^1.0.0",
+    "react-select": "^3.0.8"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -32,7 +34,8 @@
     },
     "rules": {
       "linebreak-style": 0,
-      "react/state-in-constructor": 0
+      "react/state-in-constructor": 0,
+      "react/prop-types" : 0
     }
   },
   "browserslist": {

@@ -11,6 +11,19 @@ top: 51%;
 
 }
 
+.search_select {
+    background-color: hsl (0, 0%, 100%);
+    border-color: hsl (210, 14%, 83%);
+    border-radius: 4px;
+    border-style: solid;
+    border-width:  1px;
+    color: hsl (210, 9%, 31%);
+    gap: normal;
+    line-height: 24px;
+    margin: 0px 8px 0px 0px;
+    padding: 6px 12px;
+}
+
 @media (max-width: 769px) {
     .search {
         position: absolute;
