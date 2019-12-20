@@ -1,17 +1,18 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 import './BurgerNav.css';
 
 const burgerNav = (props) => {
+  const { show } = props;
   let burgerClasses = 'burger_nav';
-  if (props.show) {
+  if (show) {
     burgerClasses = 'burger_nav open';
   }
   return (
     <nav className={burgerClasses}>
       <ul>
-        <li><a href="/">Sponsor a pet</a></li>
-        <li><a href="/">About</a></li>
+        <li><Link to="/">About</Link></li>
       </ul>
     </nav>
   );
