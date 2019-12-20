@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Modal from 'react-awesome-modal';
 
 import {
-  MDBContainer, MDBBtn, MDBTypography, MDBBox,
+  MDBContainer, MDBBtn,
 } from 'mdbreact';
 
 export default class SponsorMe extends Component {
@@ -26,14 +26,15 @@ export default class SponsorMe extends Component {
   }
 
   render() {
+    const { visible } = this.state;
     return (
       <section>
         <MDBBtn size="sm" color="info" value="Open" onClick={() => this.openModal()}>+ Sponsor Me! </MDBBtn>
 
-        <Modal visible={this.state.visible} width="800" height="590" effect="fadeInUp" onClickAway={() => this.closeModal()}>
+        <Modal visible={visible} width="800" height="590" effect="fadeInUp" onClickAway={() => this.closeModal()}>
           <MDBContainer>
             <h1 style={{ color: '#3DB0D8' }}>Please Donate!</h1>
-            <div style={{borderRadius: '14px', backgroundColor: '#C4E3EE'  }}>
+            <div style={{ borderRadius: '14px', backgroundColor: '#C4E3EE' }}>
               <p>If you want to donate you can do it to our accounts or by calling 8000-0000</p>
 
               <p>Help an Angel Accounts:</p>

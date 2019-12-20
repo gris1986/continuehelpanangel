@@ -1,8 +1,7 @@
 import React from 'react';
-
+import { Link } from 'react-router-dom';
 import BurgerNavButton from '../BurgerNav/BurgerNavButton';
 import './Toolbar.css';
-import { Link } from 'react-router-dom';
 
 const toolbar = (props) => {
   const { burgerClickHandler } = props;
